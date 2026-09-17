@@ -1,4 +1,4 @@
-# python-on arteriole
+# python-ontariolearn
 Repository for Intermediate Python course
 Write files in PyCharm, to save to git
 go to GitHub desktop and press commit to main.
